@@ -5,7 +5,8 @@
 
 # <h1 align=center> Proyecto de Análisis de Internet - Telecomunicaciones  </h1>
 
-<p align=center><img https://9nn339.p3cdn2.secureserver.net/wp-content/uploads/2021/01/Smart-City-redes.jpg=200><p>
+
+<p align=center><img src=https://9nn339.p3cdn2.secureserver.net/wp-content/uploads/2021/01/Smart-City-redes.jpg=200><p>
 
 
 ¡Bienvenidx a mi repositorio del proyecto de análisis de telecomunicaciones - Internet! 

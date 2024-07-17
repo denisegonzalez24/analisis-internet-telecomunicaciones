@@ -21,13 +21,13 @@ Las telecomunicaciones son fundamentales para la transmisión de información a 
 
 ## Descripción del Repositorio
 
-# Extracción, Transformación y Carga (ETL)
+## Extracción, Transformación y Carga (ETL)
 
  En este notebook se puede observar un trabajo previo de limpieza, selección y
 breve análisis a partir del archivo excel dado. A partir del cual se tiene un primer acercamiento a los datos, donde luego de revisarlos, se selecciona y se los exporta para su posterior análisis.
 
 
-# Análisis Exploratorio de Datos (EDA)
+## Análisis Exploratorio de Datos (EDA)
 
 
    Este notebook contiene un análisis detallado sobre el acceso a internet en Argentina. Se exploran datos por provincia y a nivel nacional, identificando tendencias, valores atípicos y áreas de oportunidad. Las conclusiones se presentan de manera clara y están respaldadas por gráficos informativos.

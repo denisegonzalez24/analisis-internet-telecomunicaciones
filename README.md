@@ -6,7 +6,7 @@
 # <h1 align=center> Proyecto de Análisis de Internet - Telecomunicaciones  </h1>
 
 
-<p align=center><img src=https://9nn339.p3cdn2.secureserver.net/wp-content/uploads/2021/01/Smart-City-redes.jpg width="600" ><p>
+<p align=center><img src=https://9nn339.p3cdn2.secureserver.net/wp-content/uploads/2021/01/Smart-City-redes.jpg width="400" ><p>
 
 
 ¡Bienvenidx a mi repositorio del proyecto de análisis de telecomunicaciones - Internet! 
@@ -83,25 +83,25 @@ Se observa un gran crecimiento entre los años 2014 y 2022, siendo en 2016 una g
 
 Analicemos un grafico de barras para ver la tendencia a través de los años para el acceso cada 100 habitantes y 100 hogares a nivel provincial.
 <p align="center">
-<img src=images/linea.jpg width="600" >
+<img src=images/linea.jpg width="400"" >
 </p>
 
   
   Aqui se visualiza una distribucion de penetracion de accesos por provincia, en la cual podemos ver la amplia diferencia entre estas. Respaldando lo anterior.
 <p align="center">
-<img src=images/Distribucion acc.jpg width="200" >
+<img src=images/Distribucion.jpg width="400" >
 </p>
 
 Tecnologias:
    <p align="center">
-  <img src="images/tecnologias2014.jpg" width="100" />
-  <img src="images/tecnologias2023.jpg" width="100" />
+  <img src="images/tecnologias2014.jpg" width="400" />
+  <img src="images/tecnologias2023.jpg" width="400" />
 </p>
 En 2014, el ADSL era la tecnología más comúnmente utilizada. Desde 2020, el cable módem se ha establecido como la tecnología predominante. Para 2023, la fibra óptica se ha posicionado como la segunda opción más popular en todo el país.
 
 Ingresos:
   <p align="center">
-<img src=images/ingresos.jpg width="200" >
+<img src=images/ingresos.jpg width="400"" >
 </p>
   Se observa una disminución en los ingresos entre los años 2018 y 2023, después de un notable incremento en el período de 2014 a 2018. Este comportamiento refleja una tendencia real, considerando los datos de inflación y la cotización del dólar oficial en Argentina.
 
@@ -115,7 +115,7 @@ Aumentar en un 2% el acceso por provincia al servicio de internet para el próxi
 Aumentar en un 2% el acceso por provincia al servicio de internet para el próximo trimestre para la tecnología Fibra Óptica 
 
  <p align="center">
-<img src=images/Screenshot_393.jpg width="200" >
+<img src=images/Screenshot_393.jpg width="400" >
 </p> 
 
   # Conclusiones 

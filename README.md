@@ -100,6 +100,8 @@ Tecnologias:
 </p>
 En 2014, el ADSL era la tecnología más comúnmente utilizada. Desde 2020, el cable módem se ha establecido como la tecnología predominante. Para 2023, la fibra óptica se ha posicionado como la segunda opción más popular en todo el país.
 
+
+
 Ingresos:
   <p align="center">
 <img src=images/ingresos.jpg width="600"" >

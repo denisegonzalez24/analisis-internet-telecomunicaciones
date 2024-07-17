@@ -6,7 +6,7 @@
 # <h1 align=center> Proyecto de Análisis de Internet - Telecomunicaciones  </h1>
 
 
-<p align=center><img src=https://9nn339.p3cdn2.secureserver.net/wp-content/uploads/2021/01/Smart-City-redes.jpg =50 ><p>
+<p align=center><img src=https://9nn339.p3cdn2.secureserver.net/wp-content/uploads/2021/01/Smart-City-redes.jpg =25 ><p>
 
 
 ¡Bienvenidx a mi repositorio del proyecto de análisis de telecomunicaciones - Internet! 
@@ -74,11 +74,14 @@ Gráficos interactivos que facilitan la exploración y comprensión de los datos
 
   # KPIs propuestos
   
-  Aumentar en un 2% el acceso por provincia al servicio de internet para el próximo trimestre por cada 100 hogares, por provincia.
+Aumentar en un 2% el acceso por provincia al servicio de internet para el próximo trimestre por cada 100 hogares, por provincia.
   
 Aumentar en un 2% el acceso por provincia al servicio de internet para el próximo trimestre para la tecnología Wireless 
 
 Aumentar en un 2% el acceso por provincia al servicio de internet para el próximo trimestre para la tecnología Fibra Óptica 
+<p align="center">
+<img src=images/Screenshot_393.jpg >
+</p>
 
   
   # Conclusiones 

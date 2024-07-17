@@ -23,35 +23,39 @@ Las telecomunicaciones son fundamentales para la transmisión de información a 
 ## Descripción del Repositorio
 
 ## Extracción, Transformación y Carga (ETL)
-
+<details>
+  <summary>Descripción ETL</summary>
  En este notebook se puede observar un trabajo previo de limpieza, selección y
 breve análisis a partir del archivo excel dado. A partir del cual se tiene un primer acercamiento a los datos, donde luego de revisarlos, se selecciona y se los exporta para su posterior análisis.
-
+</details>
 
 ## Análisis Exploratorio de Datos (EDA)
-
-
+<details>
+  <summary>Descripción EDA</summary>
    Este notebook contiene un análisis detallado sobre el acceso a internet en Argentina. Se exploran datos por provincia y a nivel nacional, identificando tendencias, valores atípicos y áreas de oportunidad. Las conclusiones se presentan de manera clara y están respaldadas por gráficos informativos.
-
+</details>
    
 ## Dashboard Interactivo
+<details>
+  <summary>Descripción Dashboard</summary>
 
-Descripción: Se ha implementado un dashboard interactivo que permite explorar los datos de manera dinámica. Incluye visualizaciones que facilitan entender la distribución del acceso a internet, la relación con los ingresos a valor del dólar en Argentina, y también los KPI propuestos. Este dashboard está diseñado para ser claro y efectivo en la presentación de información relevante.
-
+  Se ha implementado un dashboard interactivo que permite explorar los datos de manera dinámica. Incluye visualizaciones que facilitan entender la distribución del acceso a internet, la relación con los ingresos a valor del dólar en Argentina, y también los KPI propuestos. Este dashboard está diseñado para ser claro y efectivo en la presentación de información relevante.
+</details>
 
 ## Reporte de Análisis y KPIs
-
 
 A continuación se presentan los hallazgos más significativos derivados del análisis exploratorio y del dashboard interactivo. 
 
 Se discuten los KPIs propuestos, como el aumento del acceso a internet en un 2% por cada 100 hogares por provincia, junto con otros indicadores clave que ayudan a evaluar el desempeño del sector.
 
-
-La distribución del acceso a internet por provincia y su comparación entre diferentes nacionalidades.
+La distribución del acceso a internet por provincia y su comparación entre diferentes años
 
 La relación entre los ingresos y el acceso a internet, considerando la fluctuación del valor del dólar en Argentina.
 Gráficos interactivos que facilitan la exploración y comprensión de los datos presentados.
+<details>
+  <summary>Ver Análisis</summary>
+
+</details>
 
 
-
-¡Gracias por visitar nuestro repositorio y por tu interés en nuestro proyecto de análisis de telecomunicaciones en Argentina!
+¡Gracias por visitar este repositorio y por tu interés en el proyecto de análisis de Internet en Argentina!

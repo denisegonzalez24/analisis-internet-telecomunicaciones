@@ -21,6 +21,12 @@ Las telecomunicaciones son fundamentales para la transmisión de información a 
 
 
 ## Descripción del Repositorio
+## Tecnologías utilizadas
+Python 3.7 
+pandas
+matplotlib
+seaborn
+power BI
 
 ## Extracción, Transformación y Carga (ETL)
 <details>
@@ -57,15 +63,21 @@ Gráficos interactivos que facilitan la exploración y comprensión de los datos
   Definiciones de Términos Clave
 
 ● Accesos: Se refiere al número de conexiones a internet registradas. Estas conexiones pueden ser a través de diversas tecnologías como ADSL, fibra óptica, etc
+
 ● Penetración: Es el porcentaje de hogares o individuos que tienen acceso a internet en una determinada área geográfica. Se puede medir en términos de penetración en la población o en los hogares.
+
 ● Velocidad de Conexión: Clasificación de las conexiones a internet según la velocidad de descarga, expresada en Mbps (Megabits por segundo)
+
 ● Tecnología de Conexión: Tipo de tecnología utilizada para proporcionar el servicio de internet, como ADSL, fibra óptica, cable módem, dial-up, etc.
+
 ● Ingresos: Monto de dinero generado por los servicios de internet en un periodo específico, expresado en miles de pesos.
 
   # KPIs propuestos
   
   Aumentar en un 2% el acceso por provincia al servicio de internet para el próximo trimestre por cada 100 hogares, por provincia.
+  
 Aumentar en un 2% el acceso por provincia al servicio de internet para el próximo trimestre para la tecnología Wireless 
+
 Aumentar en un 2% el acceso por provincia al servicio de internet para el próximo trimestre para la tecnología Fibra Óptica 
 
   

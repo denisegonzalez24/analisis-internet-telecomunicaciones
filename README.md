@@ -6,7 +6,7 @@
 # <h1 align=center> Proyecto de Análisis de Internet - Telecomunicaciones  </h1>
 
 
-<p align=center><img src=https://9nn339.p3cdn2.secureserver.net/wp-content/uploads/2021/01/Smart-City-redes.jpg =25 ><p>
+<p align=center><img src=https://9nn339.p3cdn2.secureserver.net/wp-content/uploads/2021/01/Smart-City-redes.jpg width="200" ><p>
 
 
 ¡Bienvenidx a mi repositorio del proyecto de análisis de telecomunicaciones - Internet! 
@@ -52,7 +52,7 @@ breve análisis a partir del archivo excel dado. A partir del cual se tiene un p
 
 A continuación se presentan los hallazgos más significativos derivados del análisis exploratorio y del dashboard interactivo. 
 
-Se discuten los KPIs propuestos, como el aumento del acceso a internet en un 2% por cada 100 hogares por provincia, junto con otros indicadores clave que ayudan a evaluar el desempeño del sector.
+Se visualizan los KPIs propuestos, como el aumento del acceso a internet en un 2% por cada 100 hogares por provincia, junto con otros indicadores clave que ayudan a evaluar el desempeño del sector.
 
 La distribución del acceso a internet por provincia y su comparación entre diferentes años
 
@@ -72,6 +72,40 @@ Gráficos interactivos que facilitan la exploración y comprensión de los datos
 
 ● Ingresos: Monto de dinero generado por los servicios de internet en un periodo específico, expresado en miles de pesos.
 
+  Basandonos en buscar la relacion de accesos a internet, y el comportamiento de esta métrica, se comienza a analizar los datos de penetración por provincia a ls largo del periodo comprendido entre el 2014 y el 2023. Por lo cual se prioriza analizar por 'Accesos cada 100 hogares', a contuniacion presento los hallazgos: 
+  <p align="center">
+<img src=images/outliers.jpg width="200" >
+</p>
+
+En este gráfico encuentro muchos valores atípicos o fuera del rango intercuarti. Luego de investigar los registros con dichos valores se pudo notar que todos los outliers son de capital federal para Accesos por cada 100 hogares, lo mismo oocurre en 'Accesos por cada 100 hab', pudiendo concluir que en la provincia existe por mucho un gran acceso y demanda de servicio de internet.
+
+Se observa un gran crecimiento entre los años 2014 y 2022, siendo en 2016 una gran aceleracion en cuanto acceso cada 100 hogares. Al parecido sucede con respecto al acceso cada 100 habitantes, aunquie esta diferencia no esta tan marcada
+
+Analicemos un grafico de barras para ver la tendencia a través de los años para el acceso cada 100 habitantes y 100 hogares a nivel provincial.
+<p align="center">
+<img src=images/linea.jpg width="200" >
+</p>
+
+  
+  Aqui se visualiza una distribucion de penetracion de accesos por provincia, en la cual podemos ver la amplia diferencia entre estas. Respaldando lo anterior.
+<p align="center">
+<img src=images/Distribucion acc.jpg width="200" >
+</p>
+
+Tecnologias:
+   <p align="center">
+  <img src="images/tecnologias2014.jpg" width="100" />
+  <img src="images/tecnologias2023.jpg" width="100" />
+</p>
+En 2014, el ADSL era la tecnología más comúnmente utilizada. Desde 2020, el cable módem se ha establecido como la tecnología predominante. Para 2023, la fibra óptica se ha posicionado como la segunda opción más popular en todo el país.
+
+Ingresos:
+  <p align="center">
+<img src=images/ingresos.jpg width="200" >
+</p>
+  Se observa una disminución en los ingresos entre los años 2018 y 2023, después de un notable incremento en el período de 2014 a 2018. Este comportamiento refleja una tendencia real, considerando los datos de inflación y la cotización del dólar oficial en Argentina.
+
+
   # KPIs propuestos
   
 Aumentar en un 2% el acceso por provincia al servicio de internet para el próximo trimestre por cada 100 hogares, por provincia.
@@ -79,11 +113,11 @@ Aumentar en un 2% el acceso por provincia al servicio de internet para el próxi
 Aumentar en un 2% el acceso por provincia al servicio de internet para el próximo trimestre para la tecnología Wireless 
 
 Aumentar en un 2% el acceso por provincia al servicio de internet para el próximo trimestre para la tecnología Fibra Óptica 
-<p align="center">
-<img src=images/Screenshot_393.jpg >
-</p>
 
-  
+ <p align="center">
+<img src=images/Screenshot_393.jpg width="200" >
+</p> 
+
   # Conclusiones 
   
   Se pudo observar una tendencia al aumento de accesos a internet en todo el país, con una notable aceleración a partir de 2016, a pesar de que esta tendencia se ha estado observando desde 2014.

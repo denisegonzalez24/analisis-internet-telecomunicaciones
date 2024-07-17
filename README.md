@@ -72,7 +72,8 @@ Gráficos interactivos que facilitan la exploración y comprensión de los datos
 
 ● Ingresos: Monto de dinero generado por los servicios de internet en un periodo específico, expresado en miles de pesos.
 
-  Basandonos en buscar la relacion de accesos a internet, y el comportamiento de esta métrica, se comienza a analizar los datos de penetración por provincia a ls largo del periodo comprendido entre el 2014 y el 2023. Por lo cual se prioriza analizar por 'Accesos cada 100 hogares', a contuniacion presento los hallazgos: 
+  Centraandonos en buscar la relación de accesos a internet, y el comportamiento de esta métrica, se comienza a analizar los datos de penetración por provincia a lo largo del periodo comprendido entre el 2014 y el 2023. Por lo cual se prioriza analizar por 'Accesos cada 100 hogares', a contuniacion presento los hallazgos: 
+  
   <p align="center">
 <img src=images/outliers.jpg width="400"" >
 </p>
@@ -87,9 +88,9 @@ Analicemos un grafico de barras para ver la tendencia a través de los años par
 </p>
 
   
-  Aqui se visualiza una distribucion de penetracion de accesos por provincia, en la cual podemos ver la amplia diferencia entre estas. Respaldando lo anterior.
+  Aqui se visualiza una distribución de penetracion de accesos por provincia, en la cual podemos ver la amplia diferencia entre estas. Respaldando lo anterior.
 <p align="center">
-<img src=images/Distribucion.jpg width="400" >
+<img src=images/Distribucion .jpg width="600" >
 </p>
 
 Tecnologias:
@@ -101,7 +102,7 @@ En 2014, el ADSL era la tecnología más comúnmente utilizada. Desde 2020, el c
 
 Ingresos:
   <p align="center">
-<img src=images/ingresos.jpg width="400"" >
+<img src=images/ingresos.jpg width="600"" >
 </p>
   Se observa una disminución en los ingresos entre los años 2018 y 2023, después de un notable incremento en el período de 2014 a 2018. Este comportamiento refleja una tendencia real, considerando los datos de inflación y la cotización del dólar oficial en Argentina.
 
@@ -115,7 +116,7 @@ Aumentar en un 2% el acceso por provincia al servicio de internet para el próxi
 Aumentar en un 2% el acceso por provincia al servicio de internet para el próximo trimestre para la tecnología Fibra Óptica 
 
  <p align="center">
-<img src=images/Screenshot_393.jpg width="400" >
+<img src=images/Screenshot_393.jpg width="600" >
 </p> 
 
   # Conclusiones 

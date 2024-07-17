@@ -90,7 +90,7 @@ Analicemos un grafico de barras para ver la tendencia a través de los años par
   
   Aqui se visualiza una distribución de penetracion de accesos por provincia, en la cual podemos ver la amplia diferencia entre estas. Respaldando lo anterior.
 <p align="center">
-<img src=images/Distribucion .jpg width="600" >
+<img src=images/Distribucion.jpg width="600" >
 </p>
 
 Tecnologias:

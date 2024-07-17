@@ -6,7 +6,7 @@
 # <h1 align=center> Proyecto de Análisis de Internet - Telecomunicaciones  </h1>
 
 
-<p align=center><img src=https://9nn339.p3cdn2.secureserver.net/wp-content/uploads/2021/01/Smart-City-redes.jpg width="200" ><p>
+<p align=center><img src=https://9nn339.p3cdn2.secureserver.net/wp-content/uploads/2021/01/Smart-City-redes.jpg width="600" ><p>
 
 
 ¡Bienvenidx a mi repositorio del proyecto de análisis de telecomunicaciones - Internet! 
@@ -74,7 +74,7 @@ Gráficos interactivos que facilitan la exploración y comprensión de los datos
 
   Basandonos en buscar la relacion de accesos a internet, y el comportamiento de esta métrica, se comienza a analizar los datos de penetración por provincia a ls largo del periodo comprendido entre el 2014 y el 2023. Por lo cual se prioriza analizar por 'Accesos cada 100 hogares', a contuniacion presento los hallazgos: 
   <p align="center">
-<img src=images/outliers.jpg width="200" >
+<img src=images/outliers.jpg width="400"" >
 </p>
 
 En este gráfico encuentro muchos valores atípicos o fuera del rango intercuarti. Luego de investigar los registros con dichos valores se pudo notar que todos los outliers son de capital federal para Accesos por cada 100 hogares, lo mismo oocurre en 'Accesos por cada 100 hab', pudiendo concluir que en la provincia existe por mucho un gran acceso y demanda de servicio de internet.
@@ -83,7 +83,7 @@ Se observa un gran crecimiento entre los años 2014 y 2022, siendo en 2016 una g
 
 Analicemos un grafico de barras para ver la tendencia a través de los años para el acceso cada 100 habitantes y 100 hogares a nivel provincial.
 <p align="center">
-<img src=images/linea.jpg width="200" >
+<img src=images/linea.jpg width="600" >
 </p>
 
   

@@ -1,7 +1,14 @@
-## Proyecto de Análisis de Telecomunicaciones
+## <h1 align=center> SEGUNDI PROYECTO INDIVIDUAL </h1>
+
+<p align=center><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png><p>
 
 
-¡Bienvenidos al repositorio del proyecto de análisis de telecomunicaciones! 
+# <h1 align=center> Proyecto de Análisis de Internet - Telecomunicaciones  </h1>
+
+<p align=center><img https://9nn339.p3cdn2.secureserver.net/wp-content/uploads/2021/01/Smart-City-redes.jpg=200><p>
+
+
+¡Bienvenidx a mi repositorio del proyecto de análisis de telecomunicaciones - Internet! 
 
 En este proyecto se presenta un análisis exhaustivo que aborda el acceso a internet en Argentina, medido por provincia y nacionalidad, además de ingresos con el valor del dólar. Los datos se obtienen de la página de ENACOM.
 

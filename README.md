@@ -54,8 +54,37 @@ La relación entre los ingresos y el acceso a internet, considerando la fluctuac
 Gráficos interactivos que facilitan la exploración y comprensión de los datos presentados.
 <details>
   <summary>Ver Análisis</summary>
+  Definiciones de Términos Clave
 
+● Accesos: Se refiere al número de conexiones a internet registradas. Estas conexiones pueden ser a través de diversas tecnologías como ADSL, fibra óptica, etc
+● Penetración: Es el porcentaje de hogares o individuos que tienen acceso a internet en una determinada área geográfica. Se puede medir en términos de penetración en la población o en los hogares.
+● Velocidad de Conexión: Clasificación de las conexiones a internet según la velocidad de descarga, expresada en Mbps (Megabits por segundo)
+● Tecnología de Conexión: Tipo de tecnología utilizada para proporcionar el servicio de internet, como ADSL, fibra óptica, cable módem, dial-up, etc.
+● Ingresos: Monto de dinero generado por los servicios de internet en un periodo específico, expresado en miles de pesos.
+
+  # KPIs propuestos
+  
+  Aumentar en un 2% el acceso por provincia al servicio de internet para el próximo trimestre por cada 100 hogares, por provincia.
+Aumentar en un 2% el acceso por provincia al servicio de internet para el próximo trimestre para la tecnología Wireless 
+Aumentar en un 2% el acceso por provincia al servicio de internet para el próximo trimestre para la tecnología Fibra Óptica 
+
+  
+  # Conclusiones 
+  
+  Se pudo observar una tendencia al aumento de accesos a internet en todo el país, con una notable aceleración a partir de 2016, a pesar de que esta tendencia se ha estado observando desde 2014.
+  
+  A modo de conclusión, aunque en 2014 la tecnología más utilizada era el ADSL, desde 2020 el cable módem ha pasado a ser la tecnología predominante. Para 2023, la fibra óptica se ha convertido en la segunda opción más popular a nivel nacional. A pesar de la disminución en el número de usuarios de ADSL, una parte significativa de la población aún la utiliza. Además, se puede observar una tendencia creciente en el uso de la tecnología inalámbrica, que era mínima en años anteriores, especialmente hacia 2022.
+
+  En términos de ingresos, se observa un incremento que alcanza un pico en 2017. En los años subsiguientes, se ve una cinsiderable baja, aunque en la moneda local esto es difícil de apreciar ya que se ve una considerable subida; sin embargo, al considerar los datos inflacionarios de Argentina y medirlos en dólares estadounidenses (tomando el dólar oficial), se percibe una caída significativa. Esto está estrechamente relacionado con la inflación del país.
+  
 </details>
 
 
 ¡Gracias por visitar este repositorio y por tu interés en el proyecto de análisis de Internet en Argentina!
+
+## Contribuciones
+Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para discutir cualquier cambio importante.
+
+## Mis datos
+linkedin 
+www.linkedin.com/in/nissedgonzalezm

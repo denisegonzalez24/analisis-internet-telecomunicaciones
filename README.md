@@ -139,4 +139,4 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request p
 
 ## Mis datos
 linkedin 
-www.linkedin.com/in/nissedgonzalezm
+[www.linkedin.com/in/nissedgonzalezm](https://www.linkedin.com/in/nissegonzalezm/)

@@ -46,6 +46,11 @@ breve análisis a partir del archivo excel dado. A partir del cual se tiene un p
   <summary>Descripción Dashboard</summary>
 
   Se ha implementado un dashboard interactivo que permite explorar los datos de manera dinámica. Incluye visualizaciones que facilitan entender la distribución del acceso a internet, la relación con los ingresos a valor del dólar en Argentina, y también los KPI propuestos. Este dashboard está diseñado para ser claro y efectivo en la presentación de información relevante.
+
+  <p align="center">
+<img src=images/Screenshot_393.jpg width="400"" >
+</p>
+  
 </details>
 
 ## Reporte de Análisis y KPIs

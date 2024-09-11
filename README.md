@@ -5,7 +5,7 @@
 <p align=center><img src=https://9nn339.p3cdn2.secureserver.net/wp-content/uploads/2021/01/Smart-City-redes.jpg width="400" ><p>
 
 
-¡Bienvenidx a mi repositorio del proyecto de análisis de telecomunicaciones - Internet! 
+¡Bienvenido a mi repositorio del proyecto de análisis de telecomunicaciones - Internet! 
 
 En este proyecto se presenta un análisis exhaustivo que aborda el acceso a internet en Argentina, medido por provincia y nacionalidad, además de ingresos con el valor del dólar. Los datos se obtienen de la página de ENACOM.
 
